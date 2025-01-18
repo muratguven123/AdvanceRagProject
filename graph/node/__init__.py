@@ -1,0 +1,2 @@
+def grade():
+    return None
